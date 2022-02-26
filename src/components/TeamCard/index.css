@@ -1,0 +1,19 @@
+.team-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #f26d22;
+  max-width: 200px;
+  padding: 13px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background-color: #ffffff33;
+}
+
+.team-image-url {
+  width: 60px;
+  height: 60px;
+}

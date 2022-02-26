@@ -1,0 +1,19 @@
+.teamMatches-latestMatch-matchCard {
+  /* border-style: solid; */
+  /* border-color: white; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.venue-competing-logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.team-banner-url {
+  width: 100%;
+}
